@@ -179,7 +179,7 @@ certificate-automation/
 
 ## Author
 
-**Ananthu Krishna**
+**Accel**
 
 Contributions, issues, and pull requests are welcome. If you find this project useful, consider giving it a ⭐.
 
